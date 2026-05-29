@@ -1,2 +1,7 @@
-# demo-albanil-electricista-pintor-plomero-gasi
-Demo web para Albañil, electricista, pintor, plomero, gasista. Empresa familiar. — diseñada por eterlab.
+# Albañil, electricista, pintor, plomero, gasista. Empresa familiar.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
